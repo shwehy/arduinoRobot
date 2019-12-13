@@ -2,7 +2,7 @@
 #define RS   A2 // black line output low, white line output high
 #define CS  A1
 int R , L , C ; // integers for sensor readings
-
+//testing the git
 void setup() {
   pinMode(LS, INPUT);
   pinMode(RS, INPUT);
